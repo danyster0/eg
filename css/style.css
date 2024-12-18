@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(243 229 216);
+}
+
+.img-egg {
+    display: block;
+    width: 540px;
+    height: 300px;
+
+    margin: 38px 60px 10px 60px;
+    border-radius: 20px;
+}
+
+.big-div {
+    display: block;
+    background-color: white;
+    
+    text-align: centerg;
+    margin: 260px 430px;
+    /* margin: 670px 1800px; */
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+.div-mar {
+    margin: 30px 60px;
+}
+
+.itm {
+    background-color: rgb(255 247 252);
+    
+    border-radius: 10px;
+}
+
+.itm-text {
+    color: rgb(113 51 77);
+}
+
+.maar {
+    margin: 14px;
+
+}
+
+#itm-text {
+    margin: 12px;
+}
+
+.he {
+    color: rgb(116 90 78);
+    font-size: 30px;
+}
+
+pre {
+    margin: 50px 50px 90px 50px;
+}
+
+span {
+    color: rgb(117 76 67);
+    font-weight: bold;
+}
